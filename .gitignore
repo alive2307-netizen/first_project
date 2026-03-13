@@ -24,3 +24,4 @@ Thumbs.db  # Windows
 tmp_data.txt
 second-project/
 first_project_clone/
+.env
